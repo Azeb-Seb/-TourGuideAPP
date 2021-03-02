@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="no_text">The App is Empty no news today, Please try again later !!</string>
+    <string name="no_internet">No Interent Connection </string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">NewsFeed Settings</string>
+</resources>

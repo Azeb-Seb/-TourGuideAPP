@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sport">#823882</color>
+    <color name="uk_news">#FF5858</color>
+    <color name="world_news">#9AB5DE</color>
+    <color name="football">#79BC79</color>
+    <color name="opinion">#FFC3A0</color>
+    <color name="art">#BF9223</color>
+    <color name="film">	#bf9223</color>
+    <color name="immigration">#FFD62A</color>
+    <color name="defult">#00FDD1</color>
+    <color name="business">#90C790</color>
+    <color name="text_color_date">#2B3D4D</color>
+    <color name="text_color_title">#B4BAC0</color>
+</resources>
